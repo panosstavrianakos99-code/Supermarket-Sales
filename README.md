@@ -6,7 +6,6 @@ A SQL Server schema and load workflow for supermarket sales data, paired with a 
 
 - `supermarket_dashboard.pbix` — Power BI report.
 - `schema_and_load.sql` — database and table creation / data-loading statements.
-- `cleanup.sql` — data cleanup statement.
 
 ## Before publishing
 
